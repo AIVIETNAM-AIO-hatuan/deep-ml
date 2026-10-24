@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:05:24.015Z",
+  "generated_at": "2026-10-24T02:15:40.563Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -35,6 +35,19 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-24T01:05:23.357Z",
       "last_pushed_at": "2026-10-24T01:05:23.357Z"
+    },
+    "problem:1102": {
+      "kind": "problem",
+      "id": "1102",
+      "title": "Select specific columns",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1102",
+      "path": "problems/1102-select-specific-columns",
+      "first_solved_at": "2026-10-24T02:15:39.628Z",
+      "last_pushed_at": "2026-10-24T02:15:39.628Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
